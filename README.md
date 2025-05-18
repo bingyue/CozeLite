@@ -1,4 +1,7 @@
 
+![Xnip2025-05-18_10-09-35](https://github.com/user-attachments/assets/cb84aae3-8570-46ab-9ad1-5a48702db4cd)
+
+
 ### 🌟 CozeLite：轻量级 Coze 智能体私有化部署平台
 
 > 即开即用 · 为个人开发者与中小企业打造的智能体部署解决方案
